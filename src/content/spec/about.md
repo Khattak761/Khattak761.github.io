@@ -2,7 +2,7 @@
 
 Hey, I'm **Soban**.
 
-I'm a **Cybersecurity undergraduate** interested in offensive security, web security, and understanding how systems work.
+I'm a **Cybersecurity undergraduate** interested in offensive security, web security, and understanding how things work.
 
 I play **CTFs with team w4llz**, where I spend most of my time working on web and crypto challenges.
 
