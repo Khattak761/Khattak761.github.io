@@ -1,9 +1,21 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# About Me
 
-::github{repo="saicaca/fuwari"}
+Hey, I'm **Soban**.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I'm a **Cybersecurity undergraduate** interested in offensive security, web security, and understanding how systems work.
+
+I play **CTFs with team w4llz**, where I spend most of my time working on web and crypto  challenges.
+
+I use this blog to document things I learn, challenges I solve, and topics I find interesting.
+
+## What You'll Find Here
+
+- **CTF Writeups** — writeups and solutions from CTF challenges
+- **Web Security** — vulnerabilities, techniques, and security concepts
+- **Cybersecurity** — notes, tools, and things I'm learning
+- **Programming** — scripts and small projects
+- **Other Stuff** — anything else I feel like documenting
+
+## Contact
+
+You can find me on **GitHub** and **LinkedIn** using the links on this site.
